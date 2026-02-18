@@ -21,6 +21,8 @@ Implement the B-S model in python
 
 Use streamlit to create a visually appealing website holding a heatmap **(update this part when I learn more about heatmaps)**
 
+
+
 **Preferred outcome:**
 Everything included in the MVP
 
