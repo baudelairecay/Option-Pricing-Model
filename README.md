@@ -1,5 +1,4 @@
 # Option-Pricing-Model
-__Learning about Black Scholes Option Pricing__
 
 __Questions I'd like answered:__
 
