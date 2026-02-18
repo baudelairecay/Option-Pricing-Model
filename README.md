@@ -1,4 +1,4 @@
-# Option-Pricing-Model
+## Option-Pricing-Model
 
 # __Questions I'd like answered:__
 
