@@ -3,6 +3,7 @@
 __Questions I'd like answered:__
 
 What is an Option? 
+
 How are options priced?
 
 What is the Black-Scholes Model?
