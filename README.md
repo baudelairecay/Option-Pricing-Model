@@ -1,6 +1,6 @@
-## Option-Pricing-Model
+# Option-Pricing-Model
 
-# __Questions I'd like answered:__
+## __Questions I'd like answered:__
 
 What is an Option? 
 
@@ -16,7 +16,7 @@ How do I implement a heatmap in streamlit?
 
 
 
-# __MVP(Minimum-Viable Product):__
+## __MVP(Minimum-Viable Product):__
 
 Implement the B-S model in python
 
@@ -24,7 +24,7 @@ Use streamlit to create a visually appealing website holding a heatmap **(update
 
 
 
-# **Preferred outcome:**
+## **Preferred outcome:**
 
 Everything included in the MVP
 
